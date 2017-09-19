@@ -1,0 +1,24 @@
+.navbar li a{
+  color: red !important;
+
+}
+
+.navbar li a:hover{
+  color: yellow !important;
+}
+
+.navbar ul dropdown-menu
+{
+  
+  color:black ;
+}
+.carousel-inner{
+  width: 100%;
+  max-height: auto !important;
+
+}
+h4{
+  
+  color:white;
+  
+}
